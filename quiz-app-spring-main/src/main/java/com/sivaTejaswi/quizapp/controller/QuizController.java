@@ -1,9 +1,9 @@
-package com.telusko.quizapp.controller;
+package com.sivaTejaswi.quizapp.controller;
 
-import com.telusko.quizapp.model.Question;
-import com.telusko.quizapp.model.QuestionWrapper;
-import com.telusko.quizapp.model.Response;
-import com.telusko.quizapp.service.QuizService;
+import com.sivaTejaswi.quizapp.model.Question;
+import com.sivaTejaswi.quizapp.model.QuestionWrapper;
+import com.sivaTejaswi.quizapp.model.Response;
+import com.sivaTejaswi.quizapp.service.QuizService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
